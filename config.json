@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypave",
+        "uuid": 26977282,
+        "checksum": "z13yk"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
